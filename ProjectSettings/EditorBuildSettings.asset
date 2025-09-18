@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Ham.unity
-    guid: 96a2f8b2ab988b4498d531bd3499d547
   - enabled: 1
-    path: Assets/trail.unity
+    path: Assets/Scenes/DesktopPet.unity
+    guid: 96a2f8b2ab988b4498d531bd3499d547
+  - enabled: 0
+    path: Assets/Scenes/MouseTrail.unity
     guid: f56f7896b980577438821ef25d1a2b46
   m_configObjects: {}
