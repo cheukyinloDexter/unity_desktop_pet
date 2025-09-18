@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 2489506995e442c4b8a947bbf257a955
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: SM_uk_umbrella
+    100002: SM_uk_umbrella_cloth
+    100004: //RootNode
+    100006: Armature
+    100008: uk_umbrella
+    100010: uk_umbrella_bone_1
+    100012: uk_umbrella_bone_10_L
+    100014: uk_umbrella_bone_10_L_end
+    100016: uk_umbrella_bone_10_R
+    100018: uk_umbrella_bone_10_R_end
+    100020: uk_umbrella_bone_11_L
+    100022: uk_umbrella_bone_11_L_end
+    100024: uk_umbrella_bone_11_R
+    100026: uk_umbrella_bone_11_R_end
+    100028: uk_umbrella_bone_12_L
+    100030: uk_umbrella_bone_12_L_end
+    100032: uk_umbrella_bone_12_R
+    100034: uk_umbrella_bone_12_R_end
+    100036: uk_umbrella_bone_13_L
+    100038: uk_umbrella_bone_13_L_end
+    100040: uk_umbrella_bone_13_R
+    100042: uk_umbrella_bone_13_R_end
+    100044: uk_umbrella_bone_14
+    100046: uk_umbrella_bone_14_end
+    100048: uk_umbrella_bone_1_end
+    100050: uk_umbrella_bone_2_L
+    100052: uk_umbrella_bone_2_L_end
+    100054: uk_umbrella_bone_2_R
+    100056: uk_umbrella_bone_2_R_end
+    100058: uk_umbrella_bone_3_L
+    100060: uk_umbrella_bone_3_L_end
+    100062: uk_umbrella_bone_3_R
+    100064: uk_umbrella_bone_3_R_end
+    100066: uk_umbrella_bone_4_L
+    100068: uk_umbrella_bone_4_L_end
+    100070: uk_umbrella_bone_4_R
+    100072: uk_umbrella_bone_4_R_end
+    100074: uk_umbrella_bone_5_L
+    100076: uk_umbrella_bone_5_L_end
+    100078: uk_umbrella_bone_5_R
+    100080: uk_umbrella_bone_5_R_end
+    100082: uk_umbrella_bone_6_L
+    100084: uk_umbrella_bone_6_L_end
+    100086: uk_umbrella_bone_6_R
+    100088: uk_umbrella_bone_6_R_end
+    100090: uk_umbrella_bone_7_L
+    100092: uk_umbrella_bone_7_L_end
+    100094: uk_umbrella_bone_7_R
+    100096: uk_umbrella_bone_7_R_end
+    100098: uk_umbrella_bone_8_L
+    100100: uk_umbrella_bone_8_L_end
+    100102: uk_umbrella_bone_8_R
+    100104: uk_umbrella_bone_8_R_end
+    100106: uk_umbrella_bone_9_L
+    100108: uk_umbrella_bone_9_L_end
+    100110: uk_umbrella_bone_9_R
+    100112: uk_umbrella_bone_9_R_end
+    400000: SM_uk_umbrella
+    400002: SM_uk_umbrella_cloth
+    400004: //RootNode
+    400006: Armature
+    400008: uk_umbrella
+    400010: uk_umbrella_bone_1
+    400012: uk_umbrella_bone_10_L
+    400014: uk_umbrella_bone_10_L_end
+    400016: uk_umbrella_bone_10_R
+    400018: uk_umbrella_bone_10_R_end
+    400020: uk_umbrella_bone_11_L
+    400022: uk_umbrella_bone_11_L_end
+    400024: uk_umbrella_bone_11_R
+    400026: uk_umbrella_bone_11_R_end
+    400028: uk_umbrella_bone_12_L
+    400030: uk_umbrella_bone_12_L_end
+    400032: uk_umbrella_bone_12_R
+    400034: uk_umbrella_bone_12_R_end
+    400036: uk_umbrella_bone_13_L
+    400038: uk_umbrella_bone_13_L_end
+    400040: uk_umbrella_bone_13_R
+    400042: uk_umbrella_bone_13_R_end
+    400044: uk_umbrella_bone_14
+    400046: uk_umbrella_bone_14_end
+    400048: uk_umbrella_bone_1_end
+    400050: uk_umbrella_bone_2_L
+    400052: uk_umbrella_bone_2_L_end
+    400054: uk_umbrella_bone_2_R
+    400056: uk_umbrella_bone_2_R_end
+    400058: uk_umbrella_bone_3_L
+    400060: uk_umbrella_bone_3_L_end
+    400062: uk_umbrella_bone_3_R
+    400064: uk_umbrella_bone_3_R_end
+    400066: uk_umbrella_bone_4_L
+    400068: uk_umbrella_bone_4_L_end
+    400070: uk_umbrella_bone_4_R
+    400072: uk_umbrella_bone_4_R_end
+    400074: uk_umbrella_bone_5_L
+    400076: uk_umbrella_bone_5_L_end
+    400078: uk_umbrella_bone_5_R
+    400080: uk_umbrella_bone_5_R_end
+    400082: uk_umbrella_bone_6_L
+    400084: uk_umbrella_bone_6_L_end
+    400086: uk_umbrella_bone_6_R
+    400088: uk_umbrella_bone_6_R_end
+    400090: uk_umbrella_bone_7_L
+    400092: uk_umbrella_bone_7_L_end
+    400094: uk_umbrella_bone_7_R
+    400096: uk_umbrella_bone_7_R_end
+    400098: uk_umbrella_bone_8_L
+    400100: uk_umbrella_bone_8_L_end
+    400102: uk_umbrella_bone_8_R
+    400104: uk_umbrella_bone_8_R_end
+    400106: uk_umbrella_bone_9_L
+    400108: uk_umbrella_bone_9_L_end
+    400110: uk_umbrella_bone_9_R
+    400112: uk_umbrella_bone_9_R_end
+    2100000: M_007_005_umbrella_opt.001
+    2100002: M_007_005_umbrella_opt
+    4300000: SM_uk_umbrella
+    4300002: SM_uk_umbrella_cloth
+    9500000: //RootNode
+    13700000: SM_uk_umbrella
+    13700002: SM_uk_umbrella_cloth
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_007_005_umbrella_opt
+    second: {fileID: 2100000, guid: 0fc65f77f9dfcd04e8accab567cc8564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_007_005_umbrella_opt.001
+    second: {fileID: 2100000, guid: 0fc65f77f9dfcd04e8accab567cc8564, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 3
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 5faf0a8b1d9d2a14a8dbb67be779747a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: bag
+    100004: Body
+    100006: BodyHoneR
+    100008: boob_w.001
+    100010: boob_w.001_L
+    100012: boob_w.001_R
+    100014: CAP
+    100016: Chest
+    100018: Chest.002
+    100020: Hair
+    100022: Hair_Skin
+    100024: Head
+    100026: Head.002
+    100028: Head.002_L.001
+    100030: Head.002_L.002
+    100032: Head.002_L.003
+    100034: Head.002_L.004
+    100036: Head.002_L.005
+    100038: Head.002_L.006
+    100040: Head.002_L.007
+    100042: Head.002_L.008
+    100044: Head.002_L.009
+    100046: Head.002_L.010
+    100048: Head.002_L.011
+    100050: Head.002_L.012
+    100052: Head.002_L.013
+    100054: Head.002_L.014
+    100056: Head.002_R.001
+    100058: Head.002_R.002
+    100060: Head.002_R.003
+    100062: Head.002_R.004
+    100064: Head.002_R.005
+    100066: Head.002_R.006
+    100068: Head.002_R.007
+    100070: Head.002_R.008
+    100072: Head.002_R.009
+    100074: Head.002_R.010
+    100076: Head.002_R.011
+    100078: Head.002_R.012
+    100080: Head.004
+    100082: Head.005
+    100084: Head.006
+    100086: Head_L.001
+    100088: Head_R.001
+    100090: Hips
+    100092: Hone
+    100094: Hone_L.001
+    100096: Hone_L.002
+    100098: Hone_R.001
+    100100: Hone_R.002
+    100102: IndexFinger1_L
+    100104: IndexFinger1_R
+    100106: IndexFinger2_L
+    100108: IndexFinger2_R
+    100110: IndexFinger3_L
+    100112: IndexFinger3_R
+    100114: J_Bip_C_Hips
+    100116: J_Sec_SkirtBack_L
+    100118: J_Sec_SkirtBack_R
+    100120: J_Sec_SkirtFront_L
+    100122: J_Sec_SkirtFront_R
+    100124: J_Sec_SkirtSide_L
+    100126: J_Sec_SkirtSide_R
+    100128: jeans
+    100130: Left ankle
+    100132: Left arm
+    100134: Left elbow
+    100136: Left elbow.001
+    100138: Left knee
+    100140: Left leg
+    100142: Left shoulder
+    100144: Left toe
+    100146: Left toe.002
+    100148: Left toe.003
+    100150: Left toe.004
+    100152: Left toe.005
+    100154: Left toe.006
+    100156: Left wrist
+    100158: Left_Sode
+    100160: LeftEye
+    100162: LittleFinger1_L
+    100164: LittleFinger1_R
+    100166: LittleFinger2_L
+    100168: LittleFinger2_R
+    100170: LittleFinger3_L
+    100172: LittleFinger3_R
+    100174: MiddleFinger1_L
+    100176: MiddleFinger1_R
+    100178: MiddleFinger2_L
+    100180: MiddleFinger2_R
+    100182: MiddleFinger3_L
+    100184: MiddleFinger3_R
+    100186: Neck
+    100188: parker
+    100190: Piass
+    100192: Right ankle
+    100194: Right arm
+    100196: Right elbow
+    100198: Right elbow.001
+    100200: Right knee
+    100202: Right leg
+    100204: Right shoulder
+    100206: Right toe
+    100208: Right toe.002
+    100210: Right toe.003
+    100212: Right toe.004
+    100214: Right toe.005
+    100216: Right toe.006
+    100218: Right wrist
+    100220: Right_Sode
+    100222: RightEye
+    100224: RingFinger1_L
+    100226: RingFinger1_R
+    100228: RingFinger2_L
+    100230: RingFinger2_R
+    100232: RingFinger3_L
+    100234: RingFinger3_R
+    100236: Shose
+    100238: Spine
+    100240: SPUnder
+    100242: SPUnder2
+    100244: SS_A01_Body
+    100246: tan1
+    100248: tan2
+    100250: Thumb1_L
+    100252: Thumb1_R
+    100254: Thumb2_L
+    100256: Thumb2_R
+    100258: Thumb3_L
+    100260: Thumb3_R
+    100262: Under
+    100264: //RootNode
+    100266: "VroidT\u30B7\u30E3\u30C4 \u30C0\u30DC"
+    100268: "VroidT\u30B7\u30E3\u30C4_\u30BF\u30F3\u30AF\u30C8\u30C3\u30D7"
+    100270: "Vroid\u30B9\u30CB\u30FC\u30AB\u30FC"
+    100272: "Vroid\u30BA\u30DC\u30F3"
+    100274: X
+    100276: "\u30EA\u30B9\u30C8\u30D0\u30F3\u30C9"
+    400000: Armature
+    400002: bag
+    400004: Body
+    400006: BodyHoneR
+    400008: boob_w.001
+    400010: boob_w.001_L
+    400012: boob_w.001_R
+    400014: CAP
+    400016: Chest
+    400018: Chest.002
+    400020: Hair
+    400022: Hair_Skin
+    400024: Head
+    400026: Head.002
+    400028: Head.002_L.001
+    400030: Head.002_L.002
+    400032: Head.002_L.003
+    400034: Head.002_L.004
+    400036: Head.002_L.005
+    400038: Head.002_L.006
+    400040: Head.002_L.007
+    400042: Head.002_L.008
+    400044: Head.002_L.009
+    400046: Head.002_L.010
+    400048: Head.002_L.011
+    400050: Head.002_L.012
+    400052: Head.002_L.013
+    400054: Head.002_L.014
+    400056: Head.002_R.001
+    400058: Head.002_R.002
+    400060: Head.002_R.003
+    400062: Head.002_R.004
+    400064: Head.002_R.005
+    400066: Head.002_R.006
+    400068: Head.002_R.007
+    400070: Head.002_R.008
+    400072: Head.002_R.009
+    400074: Head.002_R.010
+    400076: Head.002_R.011
+    400078: Head.002_R.012
+    400080: Head.004
+    400082: Head.005
+    400084: Head.006
+    400086: Head_L.001
+    400088: Head_R.001
+    400090: Hips
+    400092: Hone
+    400094: Hone_L.001
+    400096: Hone_L.002
+    400098: Hone_R.001
+    400100: Hone_R.002
+    400102: IndexFinger1_L
+    400104: IndexFinger1_R
+    400106: IndexFinger2_L
+    400108: IndexFinger2_R
+    400110: IndexFinger3_L
+    400112: IndexFinger3_R
+    400114: J_Bip_C_Hips
+    400116: J_Sec_SkirtBack_L
+    400118: J_Sec_SkirtBack_R
+    400120: J_Sec_SkirtFront_L
+    400122: J_Sec_SkirtFront_R
+    400124: J_Sec_SkirtSide_L
+    400126: J_Sec_SkirtSide_R
+    400128: jeans
+    400130: Left ankle
+    400132: Left arm
+    400134: Left elbow
+    400136: Left elbow.001
+    400138: Left knee
+    400140: Left leg
+    400142: Left shoulder
+    400144: Left toe
+    400146: Left toe.002
+    400148: Left toe.003
+    400150: Left toe.004
+    400152: Left toe.005
+    400154: Left toe.006
+    400156: Left wrist
+    400158: Left_Sode
+    400160: LeftEye
+    400162: LittleFinger1_L
+    400164: LittleFinger1_R
+    400166: LittleFinger2_L
+    400168: LittleFinger2_R
+    400170: LittleFinger3_L
+    400172: LittleFinger3_R
+    400174: MiddleFinger1_L
+    400176: MiddleFinger1_R
+    400178: MiddleFinger2_L
+    400180: MiddleFinger2_R
+    400182: MiddleFinger3_L
+    400184: MiddleFinger3_R
+    400186: Neck
+    400188: parker
+    400190: Piass
+    400192: Right ankle
+    400194: Right arm
+    400196: Right elbow
+    400198: Right elbow.001
+    400200: Right knee
+    400202: Right leg
+    400204: Right shoulder
+    400206: Right toe
+    400208: Right toe.002
+    400210: Right toe.003
+    400212: Right toe.004
+    400214: Right toe.005
+    400216: Right toe.006
+    400218: Right wrist
+    400220: Right_Sode
+    400222: RightEye
+    400224: RingFinger1_L
+    400226: RingFinger1_R
+    400228: RingFinger2_L
+    400230: RingFinger2_R
+    400232: RingFinger3_L
+    400234: RingFinger3_R
+    400236: Shose
+    400238: Spine
+    400240: SPUnder
+    400242: SPUnder2
+    400244: SS_A01_Body
+    400246: tan1
+    400248: tan2
+    400250: Thumb1_L
+    400252: Thumb1_R
+    400254: Thumb2_L
+    400256: Thumb2_R
+    400258: Thumb3_L
+    400260: Thumb3_R
+    400262: Under
+    400264: //RootNode
+    400266: "VroidT\u30B7\u30E3\u30C4 \u30C0\u30DC"
+    400268: "VroidT\u30B7\u30E3\u30C4_\u30BF\u30F3\u30AF\u30C8\u30C3\u30D7"
+    400270: "Vroid\u30B9\u30CB\u30FC\u30AB\u30FC"
+    400272: "Vroid\u30BA\u30DC\u30F3"
+    400274: X
+    400276: "\u30EA\u30B9\u30C8\u30D0\u30F3\u30C9"
+    2100000: Pas
+    2100002: Face
+    2100004: HL.001
+    2100006: Eye
+    2100008: F00_003_01_Bottoms_01_CLOTH.001
+    2100010: skin_main.002
+    2100012: Material.001
+    2100014: CAP
+    2100016: Shose
+    2100018: Pants.001
+    2100020: skin_main.003
+    2100022: hair
+    2100024: ts
+    2100026: Hand
+    2100028: nale
+    2100030: PK
+    2100032: skin_main.001
+    2100034: Pants
+    2100036: Komono.001
+    2100038: Off.001
+    2100040: Komono
+    4300000: Piass
+    4300002: Body
+    4300004: "Vroid\u30BA\u30DC\u30F3"
+    4300006: SPUnder2
+    4300008: X
+    4300010: CAP
+    4300012: Shose
+    4300014: SPUnder
+    4300016: "Vroid\u30B9\u30CB\u30FC\u30AB\u30FC"
+    4300018: Under
+    4300020: Hair
+    4300022: "VroidT\u30B7\u30E3\u30C4 \u30C0\u30DC"
+    4300024: SS_A01_Body
+    4300026: parker
+    4300028: BodyHoneR
+    4300030: jeans
+    4300032: Hair_Skin
+    4300034: "\u30EA\u30B9\u30C8\u30D0\u30F3\u30C9"
+    4300036: "VroidT\u30B7\u30E3\u30C4_\u30BF\u30F3\u30AF\u30C8\u30C3\u30D7"
+    4300038: bag
+    9500000: //RootNode
+    13700000: bag
+    13700002: Body
+    13700004: BodyHoneR
+    13700006: CAP
+    13700008: Hair
+    13700010: Hair_Skin
+    13700012: jeans
+    13700014: parker
+    13700016: Piass
+    13700018: Shose
+    13700020: SPUnder
+    13700022: SPUnder2
+    13700024: SS_A01_Body
+    13700026: Under
+    13700028: "VroidT\u30B7\u30E3\u30C4 \u30C0\u30DC"
+    13700030: "VroidT\u30B7\u30E3\u30C4_\u30BF\u30F3\u30AF\u30C8\u30C3\u30D7"
+    13700032: "Vroid\u30B9\u30CB\u30FC\u30AB\u30FC"
+    13700034: "Vroid\u30BA\u30DC\u30F3"
+    13700036: X
+    13700038: "\u30EA\u30B9\u30C8\u30D0\u30F3\u30C9"
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

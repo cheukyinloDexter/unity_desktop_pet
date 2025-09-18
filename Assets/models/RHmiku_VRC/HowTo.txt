@@ -1,0 +1,94 @@
+FIRST add the following packages into your VCC project in "Manage Project" in this order:
+
+1. Modular Avatar
+https://modular-avatar.nadena.dev/
+
+2. FaceEmo
+https://suzuryg.github.io/face-emo/
+
+SECOND in unity import the custom package "poi_Toon_7.3.50_UpTo_9.0.54.unitypackage"
+
+THIRD, import the custom package "RabbitHoleMiku_v1.0.unitypackage"
+
+Read the readme txt file!
+
+Go to the prefabs folder and drag the prefab into the hierarchy/scene
+
+Open the VRChat SDK menu and upload!
+
+===
+
+This model uses FaceEmo for its expressions system
+It supports both gesture expressions and quick menu expressions
+
+If you would like to change how the expressions are binded to the gestures,
+Or create your own expressions using the available blendshapes,
+Please refer to the FaceEmo website:
+
+https://suzuryg.github.io/face-emo/
+
+
+-------------------------
+
+
+VCCプロジェクトに以下のパッケージをこの順番で追加します：
+
+1. Modular Avatar
+https://modular-avatar.nadena.dev/
+
+2. FaceEmo
+https://suzuryg.github.io/face-emo/
+
+unityで "poi_Toon_7.3.50_UpTo_9.0.54.unitypackage "をインポートします。
+
+"RabbitHoleMiku_v1.0.unitypackage "をインポートします。
+
+Readme txt を読んでください！
+
+prefabフォルダに移動し、.prefabをhierarchy/sceneにドラッグします。
+
+VRChat SDKメニューを開き、アップロードします！
+
+===
+
+このモデルはFaceEmoを使用しています。
+ジェスチャーとクイックメニューの両方に対応しています。
+
+表情とジェスチャーのバインド方法を変更したい場合、
+また、ブレンドシェイプを使って独自の表情を作成したい場合、
+FaceEmoのウェブサイトをご参照ください：
+
+https://suzuryg.github.io/face-emo/
+
+
+-------------------------
+
+
+首先在 VCC 中将以下软件包按以下顺序添加到项目中：
+
+1. Modular Avatar
+https://modular-avatar.nadena.dev/
+
+2. FaceEmo
+https://suzuryg.github.io/face-emo/
+
+第二步，在 unity 中导入 "poi_Toon_7.3.50_UpTo_9.0.54.unitypackage"
+
+第三步，导入 "RabbitHoleMiku_v1.0.unitypackage"
+
+阅读 readme txt 文件！
+
+到 prefabs 文件夹并将 .prefab 拖到层次结构/场景中
+
+打开 VRChat SDK 菜单并上传！
+
+===
+
+本模型的表情系统使用 FaceEmo
+它支持手势表情和快速菜单表情
+
+如果你想改变表情与手势的绑定方式、
+或使用形状键创建自己的表情、
+请访问 FaceEmo 网站：
+
+https://suzuryg.github.io/face-emo/
